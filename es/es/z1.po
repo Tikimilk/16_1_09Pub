@@ -1,0 +1,45 @@
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:21
+msgid "Beauty and wisdom are seldom found together."
+msgstr "Beauty and wisdom are seldom found together."
+
+#: /views/partials/format-visuals/websites.j2:45
+msgid "Better a new friend than an old foe."
+msgstr "Better a new friend than an old foe."
+
+#: /views/partials/format-visuals/websites.j2:7
+msgctxt "hihihihihi"
+msgid "People rejoice at the Sun, and I'm dreaming of the Moon."
+msgstr "People rejoice at the Sun, and I'm dreaming of the Moon."
+
+#: /views/partials/format-visuals/websites.j2:6
+msgid "Love is never wrong."
+msgstr "Love is never wrong."
+
+#: /views/partials/footer.j2:22
+msgid "Never stop dreaming."
+msgstr "Never stop dreaming."
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
+msgctxt "hihihihihi"
+msgid "Do not give up, the beginning is always the hardest."
+msgstr "Do not give up, the beginning is always the hardest."
+
+#: /views/partials/footer.j2:72
+msgid "It's easy to quit smoking. I've done it hundreds of times."
+msgstr "It's easy to quit smoking. I've done it hundreds of times."
+
+#: /views/partials/footer.j2:77
+msgid "Illusion is the first of all pleasures."
+msgstr "Illusion is the first of all pleasures."
+
+#: /views/partials/footer.j2:76
+msgid "Success doesn't come to you…you go to it."
+msgstr "Success doesn't come to you…you go to it."
+
+#: /views/partials/banner.j2:4
+msgid "Music is the soul of language."
+msgstr "Music is the soul of language."
+
+#: /views/partials/footer.j2:13
+msgid "May the force be with you"
+msgstr "May the force be with you"
